@@ -2,10 +2,10 @@
 
 Controls:
 
-Mouse - Rotate camera
-Scrollwheel - Zoom in/out
-WASD - Move character
-SPACE - Jump
+Mouse - Rotate camera  
+Scrollwheel - Zoom in/out  
+WASD - Move character  
+SPACE - Jump  
 
 Variables for optimizing the feel of the camera are available directly in the inspector. Tooltips are missing for variables however.
 
